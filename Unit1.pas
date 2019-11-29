@@ -34,7 +34,7 @@ type
   end;
 
 const
-  CLIENT_ID = 'ee08406e-0d24-4ab3-a494-5e3bcc12affa'; // Your client ID
+  CLIENT_ID = 'YOU CLIENT ID'; // Your client ID (see with document)
 
 var
   Form1: TForm1;
